@@ -78,7 +78,7 @@
     "test": "node ./out/test/runTest.js"
   },
   "devDependencies": {
-    "@types/glob": "7.1.3",
+    "@types/glob": "7.1.4",
     "@types/mocha": "8.2.2",
     "@types/node": "13.13.51",
     "@types/vscode": "1.56.0",
@@ -90,7 +90,7 @@
     "vscode-test": "1.5.2"
   },
   "dependencies": {
-    "glob": "7.1.7",
+    "glob": "7.2.0",
     "run-in-terminal": "^0.0.3"
   }
 }
